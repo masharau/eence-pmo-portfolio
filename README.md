@@ -31,11 +31,11 @@ This project is structured into 5 iterative sprints, producing 27 distinct PMO a
 Defining the project boundaries, stakeholders, and process baselines.
 | Artifact | Description | Link |
 | :--- | :--- | :--- |
-| **Project Charter** | Official project authorization and SMART goals. | [📄 docs/01-initiation/project-charter.md](./docs/01-initiation/project-charter.md) |
-| **Stakeholder Register** | Analysis of influence and communication strategy. | [📄 docs/01-initiation/stakeholder-register.md](./docs/01-initiation/stakeholder-register.md) |
-| **Business Case** | ROI estimation and strategic alignment. | [📄 docs/01-initiation/business-case.md](./docs/01-initiation/business-case.md) |
+| **Project Charter** | Official project authorization and SMART goals. | `[Pending]` |
+| **Stakeholder Register** | Analysis of influence and communication strategy. | `[Pending]` |
+| **Business Case** | ROI estimation and strategic alignment. | `[Pending]` |
 | **BPMN As-Is** | Current manual process model. | [🔍 bpmn/s1-bpmn-as-is.bpmn](./bpmn/s1-bpmn-as-is.bpmn) |
-| **BPMN To-Be** | Target automated process model. | [🔍 bpmn/s1-bpmn-to-be.bpmn](./bpmn/s1-bpmn-to-be.bpmn) |
+| **BPMN To-Be** | Target automated process model. | `[Pending]` |
 
 ### Sprint 2: Requirements
 Translating business needs into actionable IT specifications.
