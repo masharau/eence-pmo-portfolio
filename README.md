@@ -34,7 +34,7 @@ Defining the project boundaries, stakeholders, and process baselines.
 | **Project Charter** | Official project authorization and SMART goals. | `[Pending]` |
 | **Stakeholder Register** | Analysis of influence and communication strategy. | `[Pending]` |
 | **Business Case** | ROI estimation and strategic alignment. | `[Pending]` |
-| **BPMN As-Is** | Current manual process model. | [🔍 bpmn/s1-bpmn-as-is.bpmn](./bpmn/s1-bpmn-as-is.bpmn) |
+| **BPMN As-Is** | Current manual process model. | [docs/bpmn/diagram As Is.bpmn) |
 | **BPMN To-Be** | Target automated process model. | `[Pending]` |
 
 ### Sprint 2: Requirements
