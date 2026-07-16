@@ -1,6 +1,6 @@
 # eence-pmo-portfolio
 Portfolio: Digitalisierung des Förderantragsprozesses für eence e.V. (PMO, BA, IT PM).
-# Portfolio: Digitalization of the Grant Application Process 🚀
+# Portfolio: Digitalization of the Grant Application Process 🚀 /  Digitalisierung des Antragsverfahrens für Fördermittel
 
 **Author:** Ruslan Masharau  
 **Target Role:** Kaufmann für Digitalisierungsmanagement (IHK) / Process Officer / Junior IT PMO  
