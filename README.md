@@ -35,7 +35,7 @@ Defining the project boundaries, stakeholders, and process baselines.
 | **Stakeholder Register** | Analysis of influence and communication strategy. | `[Pending]` |
 | **Business Case** | ROI estimation and strategic alignment. | `[Pending]` |
 | **BPMN As-Is** | Current manual process model. | [docs/bpmn/diagram As Is.bpmn)](https://github.com/masharau/eence-pmo-portfolio/blob/1a400fc63fc085ae946cd4b2cbe2b29202162547/docs/bpmn/diagram%20As%20Is.bpmn) |
-| **BPMN To-Be** | Target automated process model. | `[Pending]` |
+| **BPMN To-Be** | Target automated process model. | [docs/bpmn/diagram_To Be.bpmn] |
 
 ### Sprint 2: Requirements
 Translating business needs into actionable IT specifications.
